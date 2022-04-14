@@ -18,7 +18,7 @@ You will create some routes using a controller:
 
 Validation criterias
 
--The controller contains 5 routes.
--The first 4 routes return the name of an incarnation mapped to its number.
--The root returns the links to the other mappings.
--The code is available on GitHub.
+- The controller contains 5 routes.
+- The first 4 routes return the name of an incarnation mapped to its number.
+- The root returns the links to the other mappings.
+- The code is available on GitHub.
